@@ -1,0 +1,50 @@
+{
+    "telemetry.machineId": "7b68af8d6c4f94cba6fa9f6ff15daa4988cef06ece6c316c2fcf996e708f1575",
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///c%3A/portfolio",
+            "file:///c%3A/RAW",
+            "file:///c%3A/memo",
+            "file:///c%3A/got4",
+            "file:///c%3A/dope",
+            "file:///c%3A/dope2",
+            "file:///c%3A/jkl",
+            "file:///c%3A/op",
+            "file:///c%3A/modeselector",
+            "file:///c%3A/qwe",
+            "file:///c%3A/asdf",
+            "file:///c%3A/ddd",
+            "file:///c%3A/flick",
+            "file:///c%3A/chart",
+            "file:///c%3A/asd2",
+            "file:///c%3A/asd",
+            "file:///c%3A/",
+            "file:///c%3A/personal-portfolio-v2-master"
+        ],
+        "files2": [
+            "file:///c%3A/got4/src/components/Game/Game.css",
+            "file:///c%3A/Users/hatr1ck/Desktop/keno-data.json",
+            "file:///c%3A/Temp/Temp1_React-portfollio-rewrite-master.zip/React-portfollio-rewrite-master/src/components/swithcer/weather.js",
+            "file:///c%3A/Temp/Temp1_React-portfollio-rewrite-master.zip/React-portfollio-rewrite-master/src/components/socket/chat.js",
+            "file:///c%3A/Temp/Temp1_React-portfollio-rewrite-master.zip/React-portfollio-rewrite-master/src/components/Puzzle/puzzle.js",
+            "file:///c%3A/Temp/Temp1_React-portfollio-rewrite-master.zip/React-portfollio-rewrite-master/src/components/game/game.js"
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/portfolio",
+            "backupPath": "c:\\Users\\hatr1ck\\AppData\\Roaming\\Code - Insiders\\Backups\\889a8dcff45a6828ac333be12d64421f",
+            "uiState": {
+                "mode": 0,
+                "x": 468,
+                "y": 0,
+                "width": 696,
+                "height": 680
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282c34",
+    "pickerWorkingDir": "C:\\"
+}
